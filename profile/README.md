@@ -1,7 +1,7 @@
 # Welcome to Cytomine ULiège :wave:
 
 <div align="center">
-    ![Cytomine ULiège](https://github.com/Cytomine-ULiege/.github/blob/main/images/cytomine-uliege-logo.png)
+    <img src="https://github.com/Cytomine-ULiege/.github/blob/main/images/cytomine-uliege-logo.png" alt="Cytomine ULiège">
 </div>
 
 <div align="center">
