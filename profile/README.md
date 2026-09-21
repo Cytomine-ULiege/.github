@@ -9,7 +9,7 @@
 </div>
 
 > [!WARNING]  
-> **Deprecated:** This organization is no longer active. We now managed the official repository [Cytomine software](https://github.com/cytomine).
+> **Deprecated:** This organization is no longer active. We now manage the official repository [Cytomine software](https://github.com/cytomine).
 
 ## What is Cytomine?
 
